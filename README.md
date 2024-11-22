@@ -20,7 +20,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
 {
-  "folke/ts-comments.nvim",
+  "cradiy/comments.nvim",
   opts = {},
   event = "VeryLazy",
   enabled = vim.fn.has("nvim-0.10.0") == 1,
